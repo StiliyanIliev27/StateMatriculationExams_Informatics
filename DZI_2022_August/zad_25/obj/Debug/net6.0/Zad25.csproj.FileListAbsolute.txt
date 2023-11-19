@@ -1,0 +1,14 @@
+D:\Programming\ДЗИ-Информатика\DZI2022_August\Zad25\bin\Debug\net6.0\Zad25.exe
+D:\Programming\ДЗИ-Информатика\DZI2022_August\Zad25\bin\Debug\net6.0\Zad25.deps.json
+D:\Programming\ДЗИ-Информатика\DZI2022_August\Zad25\bin\Debug\net6.0\Zad25.runtimeconfig.json
+D:\Programming\ДЗИ-Информатика\DZI2022_August\Zad25\bin\Debug\net6.0\Zad25.dll
+D:\Programming\ДЗИ-Информатика\DZI2022_August\Zad25\bin\Debug\net6.0\Zad25.pdb
+D:\Programming\ДЗИ-Информатика\DZI2022_August\Zad25\obj\Debug\net6.0\Zad25.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\ДЗИ-Информатика\DZI2022_August\Zad25\obj\Debug\net6.0\Zad25.AssemblyInfoInputs.cache
+D:\Programming\ДЗИ-Информатика\DZI2022_August\Zad25\obj\Debug\net6.0\Zad25.AssemblyInfo.cs
+D:\Programming\ДЗИ-Информатика\DZI2022_August\Zad25\obj\Debug\net6.0\Zad25.csproj.CoreCompileInputs.cache
+D:\Programming\ДЗИ-Информатика\DZI2022_August\Zad25\obj\Debug\net6.0\Zad25.dll
+D:\Programming\ДЗИ-Информатика\DZI2022_August\Zad25\obj\Debug\net6.0\refint\Zad25.dll
+D:\Programming\ДЗИ-Информатика\DZI2022_August\Zad25\obj\Debug\net6.0\Zad25.pdb
+D:\Programming\ДЗИ-Информатика\DZI2022_August\Zad25\obj\Debug\net6.0\Zad25.genruntimeconfig.cache
+D:\Programming\ДЗИ-Информатика\DZI2022_August\Zad25\obj\Debug\net6.0\ref\Zad25.dll
