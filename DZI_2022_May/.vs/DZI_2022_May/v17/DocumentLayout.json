@@ -3,7 +3,19 @@
   "WorkspaceRootPath": "D:\\Programming\\GitHubRepositories\\StateMatriculationExams_Informatics\\DZI_2022_May\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E81F017E-D9C3-4E40-8310-C59B92A29949}|zad_25\\zad_25.csproj|d:\\programming\\githubrepositories\\statematriculationexams_informatics\\dzi_2022_may\\zad_25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB2CC85B-0F37-442C-A864-9FA5BE5E051F}|zad_26\\zad_26.csproj|d:\\programming\\githubrepositories\\statematriculationexams_informatics\\dzi_2022_may\\zad_26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2CC85B-0F37-442C-A864-9FA5BE5E051F}|zad_26\\zad_26.csproj|solutionrelative:zad_26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2CC85B-0F37-442C-A864-9FA5BE5E051F}|zad_26\\zad_26.csproj|D:\\Programming\\GitHubRepositories\\StateMatriculationExams_Informatics\\DZI_2022_May\\zad_26\\itemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2CC85B-0F37-442C-A864-9FA5BE5E051F}|zad_26\\zad_26.csproj|solutionrelative:zad_26\\itemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2CC85B-0F37-442C-A864-9FA5BE5E051F}|zad_26\\zad_26.csproj|D:\\Programming\\GitHubRepositories\\StateMatriculationExams_Informatics\\DZI_2022_May\\zad_26\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2CC85B-0F37-442C-A864-9FA5BE5E051F}|zad_26\\zad_26.csproj|solutionrelative:zad_26\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81F017E-D9C3-4E40-8310-C59B92A29949}|zad_25\\zad_25.csproj|D:\\Programming\\GitHubRepositories\\StateMatriculationExams_Informatics\\DZI_2022_May\\zad_25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E81F017E-D9C3-4E40-8310-C59B92A29949}|zad_25\\zad_25.csproj|solutionrelative:zad_25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 319,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,6 +43,43 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ItemList.cs",
+              "DocumentMoniker": "D:\\Programming\\GitHubRepositories\\StateMatriculationExams_Informatics\\DZI_2022_May\\zad_26\\ItemList.cs",
+              "RelativeDocumentMoniker": "zad_26\\ItemList.cs",
+              "ToolTip": "D:\\Programming\\GitHubRepositories\\StateMatriculationExams_Informatics\\DZI_2022_May\\zad_26\\ItemList.cs",
+              "RelativeToolTip": "zad_26\\ItemList.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wBEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T12:09:34.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\Programming\\GitHubRepositories\\StateMatriculationExams_Informatics\\DZI_2022_May\\zad_26\\Item.cs",
+              "RelativeDocumentMoniker": "zad_26\\Item.cs",
+              "ToolTip": "D:\\Programming\\GitHubRepositories\\StateMatriculationExams_Informatics\\DZI_2022_May\\zad_26\\Item.cs",
+              "RelativeToolTip": "zad_26\\Item.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:49:45.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\GitHubRepositories\\StateMatriculationExams_Informatics\\DZI_2022_May\\zad_26\\Program.cs",
+              "RelativeDocumentMoniker": "zad_26\\Program.cs",
+              "ToolTip": "D:\\Programming\\GitHubRepositories\\StateMatriculationExams_Informatics\\DZI_2022_May\\zad_26\\Program.cs",
+              "RelativeToolTip": "zad_26\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:48:26.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Programming\\GitHubRepositories\\StateMatriculationExams_Informatics\\DZI_2022_May\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -42,16 +91,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Programming\\GitHubRepositories\\StateMatriculationExams_Informatics\\DZI_2022_May\\zad_25\\Program.cs",
               "RelativeDocumentMoniker": "zad_25\\Program.cs",
               "ToolTip": "D:\\Programming\\GitHubRepositories\\StateMatriculationExams_Informatics\\DZI_2022_May\\zad_25\\Program.cs",
               "RelativeToolTip": "zad_25\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T13:24:51.426Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-17T13:24:51.426Z"
             }
           ]
         },
