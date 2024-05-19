@@ -14,6 +14,7 @@ Technologies used in the project:
 
 *   C#
 *   Visual Studio
+*   Microsoft SQL Server
 
 
 <h1 align="center" id="title">State Matriculation Exam - 2022_August_26th📝</h1>
