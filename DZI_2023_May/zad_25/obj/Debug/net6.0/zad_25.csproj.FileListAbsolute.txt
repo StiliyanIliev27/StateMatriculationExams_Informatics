@@ -1,0 +1,15 @@
+D:\Programming\GitHubRepositories\StateMatriculationExams_Informatics\DZI_2023_May\zad_25\bin\Debug\net6.0\zad_25.exe
+D:\Programming\GitHubRepositories\StateMatriculationExams_Informatics\DZI_2023_May\zad_25\bin\Debug\net6.0\zad_25.deps.json
+D:\Programming\GitHubRepositories\StateMatriculationExams_Informatics\DZI_2023_May\zad_25\bin\Debug\net6.0\zad_25.runtimeconfig.json
+D:\Programming\GitHubRepositories\StateMatriculationExams_Informatics\DZI_2023_May\zad_25\bin\Debug\net6.0\zad_25.dll
+D:\Programming\GitHubRepositories\StateMatriculationExams_Informatics\DZI_2023_May\zad_25\bin\Debug\net6.0\zad_25.pdb
+D:\Programming\GitHubRepositories\StateMatriculationExams_Informatics\DZI_2023_May\zad_25\obj\Debug\net6.0\zad_25.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\GitHubRepositories\StateMatriculationExams_Informatics\DZI_2023_May\zad_25\obj\Debug\net6.0\zad_25.AssemblyInfoInputs.cache
+D:\Programming\GitHubRepositories\StateMatriculationExams_Informatics\DZI_2023_May\zad_25\obj\Debug\net6.0\zad_25.AssemblyInfo.cs
+D:\Programming\GitHubRepositories\StateMatriculationExams_Informatics\DZI_2023_May\zad_25\obj\Debug\net6.0\zad_25.csproj.CoreCompileInputs.cache
+D:\Programming\GitHubRepositories\StateMatriculationExams_Informatics\DZI_2023_May\zad_25\obj\Debug\net6.0\zad_25.sourcelink.json
+D:\Programming\GitHubRepositories\StateMatriculationExams_Informatics\DZI_2023_May\zad_25\obj\Debug\net6.0\zad_25.dll
+D:\Programming\GitHubRepositories\StateMatriculationExams_Informatics\DZI_2023_May\zad_25\obj\Debug\net6.0\refint\zad_25.dll
+D:\Programming\GitHubRepositories\StateMatriculationExams_Informatics\DZI_2023_May\zad_25\obj\Debug\net6.0\zad_25.pdb
+D:\Programming\GitHubRepositories\StateMatriculationExams_Informatics\DZI_2023_May\zad_25\obj\Debug\net6.0\zad_25.genruntimeconfig.cache
+D:\Programming\GitHubRepositories\StateMatriculationExams_Informatics\DZI_2023_May\zad_25\obj\Debug\net6.0\ref\zad_25.dll

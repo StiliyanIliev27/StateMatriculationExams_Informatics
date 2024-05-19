@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\GitHubRepositories\\StateMatriculationExams_Informatics\\DZI_2023_May\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9642924F-35D3-4EB4-AC86-951CF7332BE1}|zad_28\\zad_28.csproj|d:\\programming\\githubrepositories\\statematriculationexams_informatics\\dzi_2023_may\\zad_28\\cabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9642924F-35D3-4EB4-AC86-951CF7332BE1}|zad_28\\zad_28.csproj|solutionrelative:zad_28\\cabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9642924F-35D3-4EB4-AC86-951CF7332BE1}|zad_28\\zad_28.csproj|d:\\programming\\githubrepositories\\statematriculationexams_informatics\\dzi_2023_may\\zad_28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9642924F-35D3-4EB4-AC86-951CF7332BE1}|zad_28\\zad_28.csproj|solutionrelative:zad_28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9642924F-35D3-4EB4-AC86-951CF7332BE1}|zad_28\\zad_28.csproj|d:\\programming\\githubrepositories\\statematriculationexams_informatics\\dzi_2023_may\\zad_28\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9642924F-35D3-4EB4-AC86-951CF7332BE1}|zad_28\\zad_28.csproj|solutionrelative:zad_28\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9642924F-35D3-4EB4-AC86-951CF7332BE1}|zad_28\\zad_28.csproj|d:\\programming\\githubrepositories\\statematriculationexams_informatics\\dzi_2023_may\\zad_28\\furniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9642924F-35D3-4EB4-AC86-951CF7332BE1}|zad_28\\zad_28.csproj|solutionrelative:zad_28\\furniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E83472C-8770-4636-A12C-2CD50BA58DEC}|zad_25\\zad_25.csproj|d:\\programming\\githubrepositories\\statematriculationexams_informatics\\dzi_2023_may\\zad_25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E83472C-8770-4636-A12C-2CD50BA58DEC}|zad_25\\zad_25.csproj|solutionrelative:zad_25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B15A31A9-590C-45F4-B0CC-05DBED5D31AF}|zad_26\\zad_26.csproj|d:\\programming\\githubrepositories\\statematriculationexams_informatics\\dzi_2023_may\\zad_26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15A31A9-590C-45F4-B0CC-05DBED5D31AF}|zad_26\\zad_26.csproj|solutionrelative:zad_26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 319,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{290d74ba-151f-5f8b-b7df-7de2c7b571a7}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cabinet.cs",
+              "DocumentMoniker": "D:\\Programming\\GitHubRepositories\\StateMatriculationExams_Informatics\\DZI_2023_May\\zad_28\\Cabinet.cs",
+              "RelativeDocumentMoniker": "zad_28\\Cabinet.cs",
+              "ToolTip": "D:\\Programming\\GitHubRepositories\\StateMatriculationExams_Informatics\\DZI_2023_May\\zad_28\\Cabinet.cs",
+              "RelativeToolTip": "zad_28\\Cabinet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:47:26.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Table.cs",
+              "DocumentMoniker": "D:\\Programming\\GitHubRepositories\\StateMatriculationExams_Informatics\\DZI_2023_May\\zad_28\\Table.cs",
+              "RelativeDocumentMoniker": "zad_28\\Table.cs",
+              "ToolTip": "D:\\Programming\\GitHubRepositories\\StateMatriculationExams_Informatics\\DZI_2023_May\\zad_28\\Table.cs",
+              "RelativeToolTip": "zad_28\\Table.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:44:15.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Furniture.cs",
+              "DocumentMoniker": "D:\\Programming\\GitHubRepositories\\StateMatriculationExams_Informatics\\DZI_2023_May\\zad_28\\Furniture.cs",
+              "RelativeDocumentMoniker": "zad_28\\Furniture.cs",
+              "ToolTip": "D:\\Programming\\GitHubRepositories\\StateMatriculationExams_Informatics\\DZI_2023_May\\zad_28\\Furniture.cs",
+              "RelativeToolTip": "zad_28\\Furniture.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:39:52.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\GitHubRepositories\\StateMatriculationExams_Informatics\\DZI_2023_May\\zad_28\\Program.cs",
+              "RelativeDocumentMoniker": "zad_28\\Program.cs",
+              "ToolTip": "D:\\Programming\\GitHubRepositories\\StateMatriculationExams_Informatics\\DZI_2023_May\\zad_28\\Program.cs",
+              "RelativeToolTip": "zad_28\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:36:29.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\GitHubRepositories\\StateMatriculationExams_Informatics\\DZI_2023_May\\zad_26\\Program.cs",
+              "RelativeDocumentMoniker": "zad_26\\Program.cs",
+              "ToolTip": "D:\\Programming\\GitHubRepositories\\StateMatriculationExams_Informatics\\DZI_2023_May\\zad_26\\Program.cs",
+              "RelativeToolTip": "zad_26\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T20:29:07.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\GitHubRepositories\\StateMatriculationExams_Informatics\\DZI_2023_May\\zad_25\\Program.cs",
+              "RelativeDocumentMoniker": "zad_25\\Program.cs",
+              "ToolTip": "D:\\Programming\\GitHubRepositories\\StateMatriculationExams_Informatics\\DZI_2023_May\\zad_25\\Program.cs",
+              "RelativeToolTip": "zad_25\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T19:59:00.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 81,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{320fd13f-632f-4b16-9527-a1adfe555f6c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{da1e233c-cfa8-5021-b06c-abc3d02f44e8}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
