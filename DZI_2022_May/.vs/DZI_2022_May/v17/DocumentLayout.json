@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{9DB53629-9865-4604-B8E8-AB07E12EA033}|zad_28\\zad_28.csproj|solutionrelative:zad_28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB2CC85B-0F37-442C-A864-9FA5BE5E051F}|zad_26\\zad_26.csproj|d:\\programming\\githubrepositories\\statematriculationexams_informatics\\dzi_2022_may\\zad_26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB2CC85B-0F37-442C-A864-9FA5BE5E051F}|zad_26\\zad_26.csproj|D:\\Programming\\GitHubRepositories\\StateMatriculationExams_Informatics\\DZI_2022_May\\zad_26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB2CC85B-0F37-442C-A864-9FA5BE5E051F}|zad_26\\zad_26.csproj|solutionrelative:zad_26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "zad_28\\Program.cs",
               "ToolTip": "D:\\Programming\\GitHubRepositories\\StateMatriculationExams_Informatics\\DZI_2022_May\\zad_28\\Program.cs",
               "RelativeToolTip": "zad_28\\Program.cs",
-              "ViewState": "AQIAAD4AAAAAAAAAAAAgwAcAAAA5AAAA",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAgwEgAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-19T18:39:41.441Z",
               "EditorCaption": ""
@@ -91,8 +91,7 @@
               "RelativeToolTip": "zad_26\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T11:48:26.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T11:48:26.587Z"
             },
             {
               "$type": "Document",
